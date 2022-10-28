@@ -1,0 +1,1 @@
+Setup common packages and settings for Debian, whenever I move to a new laptop
